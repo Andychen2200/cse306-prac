@@ -1,0 +1,8 @@
+int main(int argv, char * argc[]) {
+  new=newRecipe("soup",1);
+  carr=newIngredient("carreort",5);
+  addIngredient(new,carr,2);
+
+
+  return 1;
+}
